@@ -1,49 +1,49 @@
-html {
+html{
   font-size: 18px;
 }
 
-body {
+body{
   color: black;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 0.9em;
   line-height: 1.4em;
 }
 
-.articulo h2 {
-  color: #cc6600;
+.articulo h2{
+  color: #CC6600;
   font-size: 1.6em;
   line-height: 1.2em;
 }
 
-#menu {
+#menu{
   background-color: blue;
 }
 
 #menu a {
-  color: white;
   font-size: 1.3em;
+  color: white;
 }
 
-#lateral {
+#lateral{
   font-size: 0.9em;
-}
 
-#noticias span.fecha {
+}
+#noticias span.fecha{
   color: #999;
 }
 
-#noticias h3 {
+#noticias h3{
   color: #003366;
 }
 
-#publicidad {
+#publicidad{
   color: #555;
 }
 
-#publicidad a {
-  color: #cc6600;
+#publicidad a{
+  color: #CC6600;
 }
 
-.articulo a {
-  color: #cc6600;
+.articulo a{
+  color: #CC6600;
 }
